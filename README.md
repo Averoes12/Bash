@@ -1,0 +1,2 @@
+# Bash
+Belajar bahasa bash
